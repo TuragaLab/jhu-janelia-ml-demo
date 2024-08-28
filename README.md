@@ -1,5 +1,7 @@
 Please choose whether you would like to figure out the exercises for yourself or follow along with me.
 
+When you open any of these notebooks on Colab, *make sure that you choose a GPU instance* by changing the runtime with the button on the top right.
+
 For working on your own click here to access Binary Classification Exercise: <a target="_blank" href="https://colab.research.google.com/github/TuragaLab/jhu-janelia-ml-demo/blob/main/Binary_Classification_Exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
