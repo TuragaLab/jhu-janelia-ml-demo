@@ -3,6 +3,10 @@ Please choose whether you would like to figure out the exercises for yourself or
 
 When you open any of these notebooks on Colab, *make sure that you choose a GPU instance* by changing the runtime with the button on the top right.
 
+For an introductory coding tutorial, access Intro Coding Tutorial: <a target="_blank" href="https://colab.research.google.com/github/TuragaLab/jhu-janelia-ml-demo/blob/main/intro_coding_tutorial.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 For working on your own click here to access Binary Classification Exercise: <a target="_blank" href="https://colab.research.google.com/github/TuragaLab/jhu-janelia-ml-demo/blob/main/Binary_Classification_Exercise.ipynb">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
@@ -18,6 +22,9 @@ For a more introductory Python Tutorial, access Python Introduction: <a target="
 # Demos
 If you're finished with the exercises and want to take a break, you can check out some fun demos of larger machine learning models:
 
+## 2026
+- FlyVis tutorial: using the model, a walkthrough of running the FlyVis connectome-constrained visual system model. <a target="_blank" href="https://colab.research.google.com/github/TuragaLab/jhu-janelia-ml-demo/blob/main/00_flyvis_tutorial_using_the_model.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+- FlyVis tutorial: mechanism discovery, digging into how the FlyVis model's mechanisms can be analyzed and interpreted. <a target="_blank" href="https://colab.research.google.com/github/TuragaLab/jhu-janelia-ml-demo/blob/main/01_flyvis_tutorial_mechanism_discovery.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 ## 2025
 - TabPFN, a foundation model for tabular data. <a target="_blank" href="https://colab.research.google.com/github/TuragaLab/jhu-janelia-ml-demo/blob/main/tabpfn_tutorial.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 - DINOv3, a foundation model for visual data. <a target="_blank" href="https://colab.research.google.com/github/TuragaLab/jhu-janelia-ml-demo/blob/main/dinov3_fruit_flies.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
